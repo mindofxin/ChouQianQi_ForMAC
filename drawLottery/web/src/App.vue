@@ -77,9 +77,6 @@ const upload = async e => {
     nameList.value = (await readData(e))[0];
     return false;
 };
-// 删除 must 和 no 变量定义
-// let must = window.res?.must || [];
-// let no = window.res?.no || [];
 
 const drawLottery = () => {
     clearTimeout(clock);
