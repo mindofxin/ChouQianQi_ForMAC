@@ -1,0 +1,28 @@
+{
+    "name": "desktop",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "main.js",
+    "scripts": {
+        "dev": "electron .",
+        "build": "electron-builder"
+    },
+    "build": {
+        "productName": "抽签器",
+        "appId": "model-runner",
+        "mac": {
+            "icon": "./logo/logo.png"
+        },
+        "win": {
+            "icon": "./logo/logo.png"
+        }
+    },
+    "devDependencies": {
+        "electron": "^36.5.0",
+        "electron-builder": "^24.13.3"
+    },
+    "dependencies": {}
+}
