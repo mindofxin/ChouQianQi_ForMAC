@@ -1,6 +1,9 @@
 # CHOU QIAN QI （抽签器）
 
 A simple fortune drawing (lottery) web app built with Vue 3 and Vite.
+## 下载链接
+
+👉 [点击下载 Mac 安装包 (.dmg)](https://github.com/mindofxin/ChouQianQi_ForMAC/releases/download/v1.0.0/ChouQianQi.dmg)
 
 ## 🧰 Prerequisites
 
