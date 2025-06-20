@@ -1,4 +1,4 @@
-# CHOU QIAN Q
+# CHOU QIAN QI （抽签器）
 
 A simple fortune drawing (lottery) web app built with Vue 3 and Vite.
 
