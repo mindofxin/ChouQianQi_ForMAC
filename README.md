@@ -6,7 +6,7 @@ A simple fortune drawing (lottery) web app built with Vue 3 and Vite.
 
 ### 🖥 macOS
 
-[Download for Mac (.dmg)](https://github.com/mindofxin/ChouQianQi_ForMAC/releases/download/mac/1281241a1e616d8d98d93aa8a4d022dd_005388ad7921e29ab88093bf984b0a90_8.dmg)
+[Download for Mac (.dmg)](https://github.com/mindofxin/ChouQianQi_ForMAC/releases/download/mac/_MAC.dmg)
 
 ### 🪟 Windows
 
